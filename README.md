@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *AnhNguyenTuan*
+* Name: *NguyenTuanAnh*
 * ID: *BA11-007*
 * Group ID: *G1 - 01*
 
